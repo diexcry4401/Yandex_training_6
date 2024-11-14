@@ -47,5 +47,5 @@ func main() {
 	}
 	// fmt.Println(nK)
 	// fmt.Println(nums)
-	countprefixsums(nums)
+	solution(nums)
 }
